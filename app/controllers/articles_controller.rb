@@ -1,29 +1,24 @@
+# frozen_string_literal: true
+
 class ArticlesController < ApplicationController
   # GET /
-  def index
-  end
+  def index; end
 
   # GET /articles/:id
-  def show
-  end
+  def show; end
 
   # GET /articles/new
-  def new
-  end
+  def new; end
 
   # POST /articles
-  def create
-  end
+  def create; end
 
   # GET /articles/:id/edit
-  def edit
-  end
+  def edit; end
 
   # PATCH/PUT /articles/:id
-  def update
-  end
+  def update; end
 
   # DESTROY /articles/:id
-  def destroy
-  end
+  def destroy; end
 end
