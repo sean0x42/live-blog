@@ -9,7 +9,6 @@ two:
   text: MyText
 
 notitle:
-  title: NULL
   text: Empty Title Text
 
 fewerthanfive:
