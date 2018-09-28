@@ -1,5 +1,6 @@
 # frozen_string_literal: true
 
+# A controller for managing article comments
 class CommentsController < ApplicationController
   # POST /articles/:id
   def create; end

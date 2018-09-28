@@ -1,5 +1,6 @@
 # frozen_string_literal: true
 
+# A controller for managing articles
 class ArticlesController < ApplicationController
   # GET /
   def index; end
